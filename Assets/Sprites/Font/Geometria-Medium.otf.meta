@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: c543ed259b9c08e4c843e022069d8cd2
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Geometria
+  fontNames:
+  - Geometria
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: f13802b0e9dda5c40a963edac92dd4e8, type: 3}
+  - {fileID: 12800000, guid: 30e89121888f209419e5eeeeab539e4f, type: 3}
+  - {fileID: 12800000, guid: 2b4b5478cbac10e4c88f9e7764c25565, type: 3}
+  - {fileID: 12800000, guid: 9c57807c66290d84ca77a6ba72dffd89, type: 3}
+  - {fileID: 12800000, guid: 2cbafc1d87e30fb4ca1e47aeef278d44, type: 3}
+  - {fileID: 12800000, guid: 4a77d09d2cdd26f489cb6e6dca076662, type: 3}
+  - {fileID: 12800000, guid: 6df3aa0e828e547488057cf7c77bc0bd, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
